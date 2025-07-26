@@ -1,4 +1,4 @@
-name = "cf-worker-friend-circle"
+name = "work-friend"
 main = "worker.js"
 compatibility_date = "2025-07-17"
 compatibility_flags = ["nodejs_compat"]
